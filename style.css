@@ -1,0 +1,66 @@
+body {
+    background-color: white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: center;
+}
+
+#header {
+    margin-top: 30px !important;
+    color: #ff4b5c;
+    margin: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    width: 100%;
+    font-size: 35px;
+}
+
+ol {
+    background-color: white;
+    border-radius: 20px;
+    border: solid 3px dodgerblue;
+    box-shadow: 8px 8px 10px rgb(255, 255, 255);
+    margin: 22px 60px 0px 60px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+    color: rgb(9, 56, 102);
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: left;
+}
+
+h3 {
+    font-size: 25px;
+    color: rgb(9, 56, 102);
+}
+
+h4 {
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    font-size: 20px;
+    color: rgb(9, 56, 102);
+}
+
+hr {
+    width: 95%;
+    border: solid 4px dodgerblue;
+    border-radius: 5px;
+}
+
+.mini_result {
+    background-color: rgba(150, 202, 255, 0.226);
+    border: solid 2px dodgerblue;
+    border-radius: 10px;
+    margin: 5px 40px 10px 0px;
+}
+
+#mn_logo {
+    text-align: center !important;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100%;
+    background-color: rgb(16, 64, 153);
+    color: white;
+    font-size: 30px;
+}
